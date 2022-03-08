@@ -1,0 +1,17 @@
+Variables:
+Sirven para asignarles un valor y poder usarlo más adelante.
+
+Strings:
+Son cadenas de textos, pueden ser tanto una simple vocal como un párrafo entero de un libro.
+
+Funciones (argumentos, return):
+Las funciones nos sirven para no repetir código a lo largo de nuestro proyecto.
+Las programamos para que interactúen con las variables que les asignamos mediante argumentos.
+Solo podemos "sacar" datos/resultados de estas mediante la declaración "return".
+
+If:
+Nos sirve para que nuestras funciones verifiquen si algo es 'true' o 'false'.
+Generalmente se hace comparando resultados (con operadores de comparación).
+
+Valores booleanos:
+Tienen 2 valores: 'true' o 'false'.
