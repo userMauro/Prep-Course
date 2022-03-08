@@ -171,7 +171,6 @@ function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
   //si su valor es true y “Soy falso” si su valor es false.
   //Escribe tu código aquí
-
   if (valor === true) return "Soy verdadero";
   else return "Soy falso";
 }
@@ -180,14 +179,6 @@ function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
-
-  //let tabla = [];
-  //let i = 0;
-  //do {
-  //  tabla = tabla.push(6 * i);
-  //  i++;
-  //}  while (i >= 10);
-  //return tabla;
   tabla = [];
   for (i = 0; i<=10; i++) {
     tabla.push (6 * i);
