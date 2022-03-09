@@ -1,0 +1,3 @@
+ARRAYS:
+Son listas en las cuales podes meter distintos tipos de valores (variables, funciones, etc).
+Y después usar esos valores desde la lista.
