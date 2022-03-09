@@ -1,0 +1,7 @@
+PROTOTYPE:
+Es la manera en que una clase establece un método (función) a la cual pueden
+acceder los objetos de esa clase, para no repetir los métodos en todos los objetos.
+
+CONSTRUCTORS (de clases):
+Es la manera en que podemos heredar las propiedades y métodos de distintas clases
+para usarlas en nuestros objetos.
